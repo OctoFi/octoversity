@@ -15,7 +15,7 @@
 
 <div>
   {% if author.name %}
-    {{ site.data.translation[site.lang].written_by | default: "Written by" }} {{ author.name }}<br>
+    {{ site.data.translation[site.lang].written_by | default: "Written by" }} <a href="https://twitter.com/{{ author.twitter }}" target="_blank">{{ author.name }}</a><br>
   {% endif %}
   <time datetime="{{ page.date | date_to_xmlschema }}">
     {% assign date_format = site.date_format | default: "%b %-d, %Y" %}

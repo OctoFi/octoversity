@@ -25,16 +25,17 @@ author:
 authors:
     doc:
       name:         Dr Octavius
-      title:        Developer      
+      title:        Team      
       avatar:       doc.jpg
+      twitter:		octofinance
     og:
       name:         OG
-      title:        Developer   
+      title:        Team   
       avatar:       og.jpg
-    alex:
-      name:         Alex
-      title:        Project Manager     
-      avatar:       alex.jpg
+    you:
+      name:         You?
+      title:        Community     
+      avatar:       you.jpg
 
 # Social icons displayed in footer
 social:
@@ -80,7 +81,7 @@ pagination:
   enabled:          true
   per_page:         5
   permalink: '/page/:num/'
-  title: ' - page :num'
+  title: ''
   limit: 0
 
 

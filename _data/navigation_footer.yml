@@ -3,8 +3,14 @@
 - title: Home
   url: /
 
+- title: Main Site
+  url: https://octo.fi
+  
 - title: Telegram
   url: https://t.me/OctoFiCommunity
+  
+- title: Dashboard
+  url: https://app.octo.fi    
 
 - title: News
   url: https://t.me/s/OctoFiNews

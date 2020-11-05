@@ -22,6 +22,13 @@ header:
   section="muted" 
 %}
 
+{% include team.html 
+  authors="doc, you" 
+  title="Made Possible By" 
+  subtitle="Wanna see yourself here?" 
+  section="default" 
+%}
+
 {% include cta.html 
   title="Try 🐙OctoFi" 
   button_text="Lanch App" 

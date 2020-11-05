@@ -1,5 +1,5 @@
-# Guia is a premium documentation Jekyll theme
+# 🐙 Octoversity is a decentralized finance education platform
 
-## Documentation
+## Wanna contribute?
 
-Full documentation can be found on the demo site, the demo site content is also theme documentation: [https://docs.unbound.studio/guia-jekyll-helpdesk-theme/](https://docs.unbound.studio/guia-jekyll-helpdesk-theme/).
+If you have any requests or suggestions, please come and join our community discussion on [Telegram](https://t.me/OctoFiCommunity).

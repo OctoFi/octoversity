@@ -5,7 +5,7 @@
             <h2 class="uk-text-center">{{ include.title }}</h2>
         {% endif %}
 
-        {% if include.subtitle %}<p class="uk-text-muted uk-text-center uk-text-lead">{{ include.subtitle | escape }}</p>{% endif %}
+        {% if include.subtitle %}<p class="uk-text-muted uk-text-center uk-text-lead">{{ include.subtitle | escape }} <a href="https://t.me/OctoFiCommunity">Join us on Telegram!</a></p>{% endif %}
 
         <div class="uk-margin-medium-top uk-flex-center uk-text-center uk-margin-medium-top uk-grid-small" data-uk-grid>
 
@@ -34,7 +34,7 @@
                         <img class="uk-avatar uk-border-circle" data-src="{{ domain }}{{ item.avatar }}" 
                         src="{{ domain }}{{ item.avatar }}" alt="{{ item.name }}" data-uk-img>
                     {% endif %}
-                    <h5 class="uk-margin-remove-bottom uk-margin-small-top">{{ item.name }}</h5>
+                    <h5 class="uk-margin-remove-bottom uk-margin-small-top"><a href="https://twitter.com/{{ item.twitter }}" target="_blank">{{ item.name }}</a></h5>
                     {% if item.title %}
                         <p class="uk-article-meta uk-margin-xsmall-top">{{ item.title }}</p>
                     {% endif %}
