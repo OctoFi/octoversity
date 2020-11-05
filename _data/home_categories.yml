@@ -1,0 +1,75 @@
+# Categories separated in sections
+- title: Introduction
+  subtitle: A brief look at centralized and decentralized finance
+  category: intro
+  categories:
+
+    - permalink: /intro/banks/
+      title: Traditional Finance
+      category: banks
+      desc: Legacy banking and traditional financial institutions of the old world
+      emoji: 🏦
+
+    - permalink: /intro/defi/
+      title: Decentralized Finance
+      category: defi
+      desc: Internet native and emerging field that's disrupting traditional finance
+      emoji: 🦄
+      
+- title: Getting Started
+  subtitle: A beginner level introduction to the foundations of DeFi
+  category: beginner
+  categories:
+
+    - permalink: /beginner/ethereum/
+      title: Ethereum
+      category: ethereum
+      desc: Decentralized blockchain network making decentralized finance possible
+      emoji: 🔗
+
+    - permalink: /beginner/wallets/
+      title: Wallets
+      category: wallets
+      desc: Applications for securely holding cryptocurrencies that interface with DeFi
+      emoji: 👛
+      
+- title: Diving Deeper
+  subtitle: An intermediate level primer on some core DeFi concepts
+  category: intermediate
+  categories:
+
+    - permalink: /intermediate/stablecoins/
+      title: Stablecoins
+      category: stablecoins
+      desc: Crypto assets that are pegged to stable assets such as the US dollar
+      emoji: ⚖️
+
+    - permalink: /intermediate/lend-borrow/
+      title: Lending and Borrowing
+      category: lend-borrow
+      desc: Common financial services made possible by credit and collateral
+      emoji: 🤝
+    
+    - permalink: /intermediate/exchange/
+      title: Decentralized Exchanges
+      category: exchange
+      desc: Decentralized trading platforms that allow you to maintain custody of assets
+      emoji: 💱
+
+    - permalink: /intermediate/derivatives/
+      title: Decentralized Derivatives
+      category: derivatives
+      desc: Contracts that derive  value from another underlying asset (for advanced users) 
+      emoji: 💸
+      
+    - permalink: /intermediate/fund-manage/
+      title: Fund Management
+      category: fund-manage
+      desc: Solutions for investors to manage their funds in more decentralized ways
+      emoji: 💹
+
+    - permalink: /intermediate/farming/
+      title: Yield Farming
+      category: farming
+      desc: Means of earning rewards through incentivised lending to liquidity pools
+      emoji: 🚜

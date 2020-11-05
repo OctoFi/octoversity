@@ -1,0 +1,18 @@
+{% if include.button_url contains 'http' %}
+    {% assign domain = '' %}
+{% else %}
+    {% assign domain = '' | relative_url %}
+{% endif %}
+
+{% if include.button_url %}
+<div class="uk-section uk-text-center{% if include.section %} uk-section-{{ include.section }}{% endif %}">
+    <div class="uk-container uk-container-small">
+        <div data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true">
+            {% if include.title %}<h2 class="uk-margin-bottom">{{ include.title }}</h2>{% endif %}
+            {% if include.subtitle %}<p class="uk-text-muted uk-text-center uk-text-lead">{{ include.subtitle | escape }}</p>{% endif %}
+            <a href="https://www.producthunt.com/posts/octofi?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-octofi" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=269073&theme=dark" alt="OctoFi - DeFi dashboard for decentralized finance tentacles | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+            <!--<a class="uk-button uk-button-primary uk-border-rounded uk-margin-top" href="{{ domain }}{{ include.button_url }}">{{ include.button_text }}</a>-->
+        </div>
+    </div>
+</div>
+{% endif %}

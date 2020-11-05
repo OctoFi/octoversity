@@ -1,0 +1,127 @@
+# Site title and description
+title:              Octoversity
+description:        Decentralized Finance Education
+lang:               en
+
+# Site subpath, e.g. /blog
+baseurl:            ""
+
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:categories/:title/
+
+# Site base hostname & protocol, e.g. http://example.com
+url:                "https://help.octo.fi"
+
+# Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
+logo:               
+  
+# Default author settings
+author:
+    name:           Dr Octavius
+    title:          Developer 
+    avatar:         doc.jpg
+
+# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
+authors:
+    doc:
+      name:         Dr Octavius
+      title:        Developer      
+      avatar:       doc.jpg
+    og:
+      name:         OG
+      title:        Developer   
+      avatar:       og.jpg
+    alex:
+      name:         Alex
+      title:        Project Manager     
+      avatar:       alex.jpg
+
+# Social icons displayed in footer
+social:
+    email:			
+    website:		
+    facebook:     
+    flickr:
+    dribbble:
+    github:			
+    googleplus:
+    instagram:
+    linkedin:
+    pinterest:
+    twitter:        https://twitter.com/octofinance
+    vimeo:          
+    youtube:
+
+# Share button
+share:
+    post:           true # Display share buttons on a post page
+    twitter:        octofinance # Enable by adding Twitter handle 
+    facebook:       # Enable by setting true (Facebook handle not required)
+
+header:
+  image: header.jpg
+  # background: "rgba(0, 0, 0, 0.5)"
+  color: light
+  search: true
+
+# Default footer image settings
+footer:
+    copyright:      <a href="https://github.com/octofi/octoversity">Open source</a> by <a href="https://octo.fi/">OctoFi</a>
+
+# Disqus comments shortname, requires Disqus account https://disqus.com/
+disqus:
+    shortname:      # 1234
+
+# Google analytics code, get your code here https://www.google.com/analytics/
+google_analytics:
+
+# Pagination Settings
+pagination:
+  enabled:          true
+  per_page:         5
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+
+
+# Path to post content assets directory i.e post images, pdfs etc
+uploads:            /uploads/
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-avatar
+  - jekyll-paginate-v2
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+sass:
+  style:            compressed
+
+collections:
+  faqs:
+    output:         false
+  changelogs:
+    output:         false
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path:         ""
+      type:         posts
+    values:
+      layout:       post
+  # _pages
+  - scope:
+      path:         ""
+      type:         pages
+    values:
+      layout:       page

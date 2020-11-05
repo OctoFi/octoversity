@@ -1,0 +1,14 @@
+# Mobile menu navigation links
+
+- title: Home
+  url: /
+
+- title: OctoFi 101
+  url: https://101.octo.fi
+  
+- title: Roadmap
+  url: https://docs.octo.fi/docs/roadmap
+
+- title: Launch App
+  url: https://app.octo.fi
+  button: primary
