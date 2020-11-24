@@ -1,7 +1,7 @@
 ---
 title: What are decentralized exchanges?
 subtitle: 
-categories: [intermediate, exchange]
+categories: [intermediate, exchanges]
 author: doc
 ---
 

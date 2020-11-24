@@ -50,9 +50,9 @@
       desc: Common financial services made possible by credit and collateral
       emoji: 🤝
     
-    - permalink: /intermediate/exchange/
+    - permalink: /intermediate/exchanges/
       title: Decentralized Exchanges
-      category: exchange
+      category: exchanges
       desc: Decentralized trading platforms that allow you to maintain custody of assets
       emoji: 💱
 
@@ -73,3 +73,56 @@
       category: farming
       desc: Means of earning rewards through incentivised lending to liquidity pools
       emoji: 🚜
+      
+- title: Using OctoFi
+  subtitle: Invest in DeFi from a platform you own
+  category: support
+  categories:
+
+    - permalink: /support/dashboard/
+      title: Dashboard
+      category: dashboard
+      desc: Keep track of your decentralized finance portfolio perfomance
+      emoji: 🎛️
+
+    - permalink: /support/pools/
+      title: Pools
+      category: pools
+      desc: Provide liquidity to earn fees, incentives, voting rights, and more
+      emoji: ⚖️
+    
+    - permalink: /support/exchange/
+      title: Exchange
+      category: exchange
+      desc: Instantly and easily swap one token for another and make trades
+      emoji: 💱
+
+    - permalink: /support/governance/
+      title: Governance
+      category: governance
+      desc: Participate in voting to help determine the future of a project
+      emoji: 🗳️
+      
+    - permalink: /support/history/
+      title: History
+      category: history
+      desc: Inspect your entire transaction history and verify on the blockchain
+      emoji: 📒
+
+    - permalink: /support/explore/
+      title: Explore
+      category: explore
+      desc: Browse through categories to find trending investment opportunities
+      emoji: 🔍
+
+    - permalink: /support/market/
+      title: Market
+      category: market
+      desc: View price and market data for thousands of assets and oracle aggregators
+      emoji: 📈
+
+    - permalink: /support/buy-crypto/
+      title: Buy Crypto
+      category: buy-crypto
+      desc: Purchase cryptocurrencies directly with a selection of fiat currencies
+      emoji: 💵

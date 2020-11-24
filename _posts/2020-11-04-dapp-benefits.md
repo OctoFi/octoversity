@@ -1,10 +1,13 @@
 ---
-title: What are the benefits of DApps?
+title: What are the benefits of Dapps?
 subtitle: 
 categories: [beginner, ethereum]
 author: doc
 ---
 
-Coming soon...
+Decentralized applications (Dapps) are hosted on decentralized systems such as Ethereum and typically have these benefits:
 
-Want to contribute? Join us [on Telegram](https://t.me/OctoFiCommunity).
+ - **Immutability:** Upon entering the blockchain, no information can be changed.
+ - **Transparent:** Smart contracts enabling Dapps can be audited openly.
+ - **Tamper-proof:** Tampering of smart contracts on the blockchain will alert all participants therein.
+ - **Availability:** Dapps will always be active and usable as long as the Ethereum system remains active.

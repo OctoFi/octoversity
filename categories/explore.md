@@ -1,8 +1,8 @@
 ---
 layout: category
-permalink: /support/exchange/
+permalink: /support/explore/
 pagination: 
   enabled: true
   permalink: /:num/
-  category: exchange
+  category: explore
 ---

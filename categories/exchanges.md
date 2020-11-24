@@ -1,8 +1,9 @@
 ---
 layout: category
-permalink: /support/exchange/
+permalink: /intermediate/exchanges/
 pagination: 
   enabled: true
   permalink: /:num/
-  category: exchange
+  category: exchanges
 ---
+

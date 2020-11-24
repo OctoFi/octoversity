@@ -33,6 +33,6 @@ header:
   title="Try 🐙OctoFi" 
   button_text="Lanch App" 
   button_url="https://app.octo.fi" 
-  subtitle="All-in-one dashboard for your DeFi investments" 
+  subtitle="Invest in DeFi from a platform you own" 
   section="muted"
 %}

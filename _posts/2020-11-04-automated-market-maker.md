@@ -1,7 +1,7 @@
 ---
 title: What is an automated  market maker (AMM)?
 subtitle: 
-categories: [intermediate, exchange]
+categories: [intermediate, exchanges]
 author: doc
 ---
 

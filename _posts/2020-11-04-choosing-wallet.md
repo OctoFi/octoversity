@@ -5,6 +5,6 @@ categories: [beginner, wallets]
 author: doc
 ---
 
-Coming soon...
+A lot of cryptocurrency wallets are obtainable in the market. However, before you can start your journey on Ethereum, you will be required to have an Ethereum Wallet.
 
-Want to contribute? Join us [on Telegram](https://t.me/OctoFiCommunity).
+For beginners, the most popular Ethereum wallet is [MetaMask](https://metamask.io) and they have wallets available for both desktop and mobile usage. 

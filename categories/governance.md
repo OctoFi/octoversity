@@ -1,8 +1,8 @@
 ---
 layout: category
-permalink: /support/exchange/
+permalink: /support/governance/
 pagination: 
   enabled: true
   permalink: /:num/
-  category: exchange
+  category: governance
 ---

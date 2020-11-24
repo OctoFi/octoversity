@@ -1,8 +1,8 @@
 ---
 layout: category
-permalink: /support/exchange/
+permalink: /support/dashboard/
 pagination: 
   enabled: true
   permalink: /:num/
-  category: exchange
+  category: dashboard
 ---
