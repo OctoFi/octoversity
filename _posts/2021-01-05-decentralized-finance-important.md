@@ -1,35 +1,40 @@
 ---
-title: What is impermanent loss?
+title: Why is Decentralized Finance (DeFi) important?
 subtitle: 
-categories: [support, pools]
+categories: [intro, defi]
 author: marco
 ---
 
-An important aspect to consider when providing liquidity to automated market maker (AMM) protocols (such as Uniswap) are impermanent losses.
+OctoFi empowers you with decentralized finance <s>oracles</s> tentacles. But, what does this mean?
 
-Many beginners to DeFi and providing liquidity are unaware of the risks and consider providing liquidity a ‘hold and earn’ type of situation. Whereas this can certainly be true, we’d like to also inform you about these interest-ink risks.
+First, I’d recommend you to read our post '[What is decentralized finance (DeFi)?](/intro/defi/decentralized-finance/)' You should now have a brief idea about the kinds of services this includes, the potential and the requirements of participating in DeFi.
 
-TLDR: Impermanent losses are the ‘losses’ made by providing liquidity to the protocol versus having held the same altcoins in a wallet. They are impermanent because these losses could well be made up for. This happens once the prices of the provided tokens return to the prices they were when you entered the liquidity pool.
+## The rise of DeFi
 
-Unfortunately, impermanent losses sometimes turn into real (cost-opportunity) losses. Meaning the returns are lower than they would have been if you had held the altcoin that went up in price (eating your profits), or in case of negative price action leaving you with real losses.
+DeFi projects have become incredibly popular in the last year. In 2019 a total of 275 million USD was added as collateral to DeFi platforms. However, 2020 was a monster year, where these platforms managed to attract over [7 billion USD in collateral](https://cointelegraph.com/news/defi-vs-legacy-finance-solving-old-issues-brings-new-complexities). Mainly on the Ethereum Network.
 
-## How does this happen?
+It’s clear the cryptocurrency community are suckers for decentralized finance (in a very positive way!). 2021 is the year to spread these tentacles wider, to further attract liquidity and incentivising those who provide it.
 
-A big discussion (and concern) around the current AMM protocols are impermanent losses and leeching. This is one of the main reasons institutional money hasn’t entered in masses yet.
+## What are advantages of DeFi over centralized finance?
 
-Impermanent losses happen when the prices of your deposited tokens (liquidity) change. The bigger these prices change, the more you’re exposed to impermanent losses. This means the value of your deposited funds is lower versus the time of deposit.
+The limitations of centralized finance are clear.
 
-Next to that, liquidity leeching is still a concern. This is done in two ways:
+DeFi can be seen as an ocean that has yet to be explored. On DeFi platforms it is possible to arrange savings, loans, transactions, insurance and much more with the click of a button. All someone needs is an internet connection and a decentralized (mobile) application, opening up a whole new world for people in ‘poor’ countries, as well as adding plenty of new opportunities and features to the developed world.
 
-- Uniswap (and other AMMs) have seen trading bots take advantage of users that set high slippage %s. The bot would pre-pump the price before the user’s transaction executes to match the tolerated slippage, and sell immediately after. Leaving the swapper with immediate losses and the bot with profits, sucking liquidity from the pool.
-- Arbitrage hunters. AMMs don’t automatically match prices of external exchanges, this is done by arbitrage takers. They’d sell (or buy) on the AMM for additional profits, and sell these on external exchanges, also sucking liquidity from the pool.
+These decentralized applications make use of the so-called "smart contracts". This makes it possible to arrange all the above things without using an intermediary, such as a bank.
 
-## Does this mean providing liquidity isn’t worth it?
+With loans, collateral is used, so that credit scores no longer (need to) play a role, nor do high or hidden fees play a role any longer. At the moment collateral is mainly provided in stablecoins. These are coins locked against the dollar value, which means there is less risk of a loan to default.
 
-Not at all, providing liquidity is actually tenta-cool! Liquidity pools that are quite risky in terms of impermanent losses can still earn you money. Impermanent loss alone doesn’t mean you cannot earn money, if this were the case there wouldn’t be so much liquidity provided to trading pools.
+**In summary, these protocols have this in common:**
 
-To stick with our Uniswap example, Uniswap charges 0.3% in trading fees which are distributed among all liquidity providers on that specific trading pool (e.g. OCTO/ETH trading pool). Your earned fees would depend on your pool share (%).
+- These projects are decentralized from day one. There is no party / project team in charge of the protocol.
+- The code is completely open source and transparent. Allowing everyone to verify and check the contract.
+- The protocol can be used worldwide from day one. It does not matter where a user is located.
+- There is no account / know-your-customer / anti-money laundering verification. Everyone can work with the protocol by connecting their wallet to the smart contract.
+- Developers can change these protocols in any way, or link them together. This is why DeFi is also seen as money LEGOs.
 
-Overtime, pools that attract large volume or return to their original price state can earn you plenty of trading fees and offset your impermanent losses. This while simply holding the liquidity pool tokens after all.
+So, decentralized finance offers many advantages over centralized finance. Why isn’t ‘mainstream’ yet? Realistically this all comes down to education.
 
-If you’re new to providing liquidity, we would well recommend you to first do so with a smaller amount. So you’ve sailed the dangerous waters and can thereafter enjoy more calm waters. And what do we call a relaxed octopus? A calm-ari!
+Interacting with DeFi platforms still requires some technical knowledge, knowledge about how to purchase/transact cryptocurrency and knowledge on loan collateral and the risks involved.
+
+This is where [OctoFi](https://octo.fi) aims to help simplify things and educate users.
