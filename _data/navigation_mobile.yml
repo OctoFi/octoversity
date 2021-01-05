@@ -3,12 +3,14 @@
 - title: Home
   url: /
 
-- title: OctoFi 101
-  url: https://101.octo.fi
+- title: Main Site
+  url: https://octo.fi
   
-- title: Roadmap
-  url: https://docs.octo.fi/docs/roadmap
+- title: Telegram
+  url: https://t.me/OctoFiCommunity
+  
+- title: Platform
+  url: https://app.octo.fi    
 
-- title: Go to app
-  url: https://app.octo.fi
-  button: primary
+- title: Docs
+  url: https://docs.octo.fi

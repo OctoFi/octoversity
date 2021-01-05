@@ -23,7 +23,7 @@ header:
 %}
 
 {% include team.html 
-  authors="doc, you" 
+  authors="doc, og, marco, cfow, you" 
   title="Made Possible By" 
   subtitle="Wanna see yourself here?" 
   section="default" 

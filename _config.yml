@@ -24,14 +24,25 @@ author:
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     doc:
-      name:         Dr Octavius
+      name:         Dr. Octavius
       title:        Team      
       avatar:       doc.jpg
       twitter:		octofinance
     og:
-      name:         OG
+      name:         Mr. OG
       title:        Team   
       avatar:       og.jpg
+      twitter:		octofinance
+    marco:
+      name:         Marco
+      title:        Community   
+      avatar:       marco.jpg
+      twitter:		TMod_Marco
+    cfow:
+      name:         CFow
+      title:        Community   
+      avatar:       cfow.jpg
+      twitter:		CFowTweet
     you:
       name:         You?
       title:        Community     
